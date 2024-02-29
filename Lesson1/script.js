@@ -1,9 +1,31 @@
-// This is a single line Comments
-console.log("Lesson One");
+// console.log("This is awesome, 2");
 
-/*
-This is a multiple line Comments 
-console.log("Lesson 2");
-None of this is going to run!
-console.log("Your age is", 23);
-*/
+// let name = "John";
+// let age = 23
+// // true / false
+
+// let married = false
+// let status; // undefined
+// let colors = null
+
+// console.log(name, age, married, status, colors)
+
+// Objects
+
+// let person = {
+//     name: "John",
+//     age: 23,
+// }
+
+// // console.log(person)
+// person.name = "Jane"
+// console.log(person.name)
+
+// Arrays
+
+let list = ["John", 23, "bananas"]
+
+list[3] = true
+
+console.log(list)
+// console.log(list[1])
