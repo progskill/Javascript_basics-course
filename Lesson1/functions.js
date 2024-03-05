@@ -1,0 +1,2 @@
+// named functions
+// Arrow functions
